@@ -1,5 +1,3 @@
 # TestingAutomation
 
 urgent
-important
-update
